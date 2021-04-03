@@ -2,14 +2,10 @@
 
 Hi! I'm Harman (aka. hrmnjt) on wild-wild internet.
 
-- [Github](https://github.com/hrmnjt)
-- [Twitter](https://twitter.com/__hrmnjt__)
-- [LinkedIn](https://twitter.com/__hrmnjt__)
-
 ## About work
 
 I work at ~~[@MuSigmaInc](https://twitter.com/MuSigmaInc)~~ 
-[@MajidAlFuttaim](https://twitter.com/MajidAlFuttaim) on ~~data analytics~~, 
+[@MajidAlFuttaim](https://twitter.com/MajidAlFuttaim) on data analytics, 
 ~~backend applications~~, ~~recommendation engines~~, system programming, 
 analytical and transactional database systems, editing yaml and dataops.
 
@@ -24,8 +20,8 @@ LaTeX as version controlled code reproducible and openly available
 ## Other stuff
 
 I currently live in Dubai and generally found either (and not in any order)
-- programming
-- tweeting
+- [programming](https://github.com/hrmnjt)
+- [tweeting](https://twitter.com/__hrmnjt__)
 - playing DotA2; listening to classical rock guitar solos; reading about 
 psychology, shower-thoughts, what-ifs, statistical modeling, high available 
 infrastructure, systems design, mega-engineering and skynet.
