@@ -1,15 +1,15 @@
-# `whoami`
+## `whoami`
 
 Hi! I'm Harman (aka. hrmnjt) on wild-wild internet.
 
-## About work
+## `pwd`
 
 I work at ~~[@MuSigmaInc](https://twitter.com/MuSigmaInc)~~ 
 [@MajidAlFuttaim](https://twitter.com/MajidAlFuttaim) on data analytics, 
 ~~backend applications~~, ~~recommendation engines~~, system programming, 
 analytical and transactional database systems, editing yaml and dataops.
 
-## Open Source
+## `code`
 
 - [Presentation as Code (PaC)](https://github.com/hrmnjt/way-to-go-present/): 
 An experiment to create presentations through version controlled codebase 
@@ -17,7 +17,7 @@ instead of using office software (libre or otherwise)
 - [Resume as Code (RaC)](https://github.com/hrmnjt/resume): Create resume with 
 LaTeX as version controlled code reproducible and openly available
 
-## Other stuff
+## `which`
 
 I currently live in Dubai and generally found either (and not in any order)
 - [programming](https://github.com/hrmnjt)
