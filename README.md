@@ -9,14 +9,6 @@ I work at ~~[@MuSigmaInc](https://twitter.com/MuSigmaInc)~~
 ~~backend applications~~, ~~recommendation engines~~, system programming, 
 analytical and transactional database systems, editing yaml and dataops.
 
-## `code`
-
-- [Presentation as Code (PaC)](https://github.com/hrmnjt/way-to-go-present/): 
-An experiment to create presentations through version controlled codebase 
-instead of using office software (libre or otherwise)
-- [Resume as Code (RaC)](https://github.com/hrmnjt/resume): Create resume with 
-LaTeX as version controlled code reproducible and openly available
-
 ## `which`
 
 I currently live in Dubai and generally found either (and not in any order)
