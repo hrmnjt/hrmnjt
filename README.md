@@ -1,6 +1,6 @@
 Hi! I'm Harman (aka. hrmnjt) on wild-wild internet.
 
-I work at ~~[@MuSigmaInc](https://twitter.com/MuSigmaInc)~~
+I work at ~~[@MuSigmaInc](https://www.mu-sigma.com/)~~
 ~~[@MajidAlFuttaim](https://www.majidalfuttaim.com/)~~ 
 [Department of Health](https://www.doh.gov.ae/en/) on data analytics,
 ~~backend applications~~, recommendation engines, ~~system programming~~,
